@@ -1,0 +1,7 @@
+- [Open a file](https://www.w3schools.com/python/python_file_open.asp)
+- [Read a file](https://www.w3schools.com/python/ref_file_readline.asp)
+- [String to int](https://www.geeksforgeeks.org/convert-string-to-integer-in-python/)
+- [For loops](https://www.w3schools.com/python/python_for_loops.asp)
+- [Array length](https://www.w3schools.com/python/python_for_loops.asp)
+- [List item occurence count](https://www.w3schools.com/python/ref_list_count.asp)
+- [List methods](https://www.w3schools.com/python/python_ref_list.asp)
