@@ -1,5 +1,7 @@
 # Advent of code 2024
 
+[Advent of code](https://adventofcode.com/)
+
 This year I will be trying to solve the challenges while learning python.
 I have zero knowledge in python when starting this so I can only get better.
 
