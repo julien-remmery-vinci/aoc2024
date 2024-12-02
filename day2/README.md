@@ -1,0 +1,4 @@
+- [Break statement](https://www.programiz.com/python-programming/break-continue)
+- [Boolean negation](https://www.geeksforgeeks.org/how-to-get-a-negation-of-a-boolean-in-python/)
+- [String to integer](https://www.geeksforgeeks.org/python-converting-all-strings-in-list-to-integers/)
+- [List slicing](https://www.geeksforgeeks.org/python-list-slicing/)
