@@ -22,7 +22,7 @@ def sort_both(first, second):
 
 def fix(update):
     i = 0
-    while not is_valid(update):
+    while i < len(update)-1:
         first, second = sort_both(update[i], update[i+1])
         if first != update[i]:
             update[i] = first
@@ -31,7 +31,6 @@ def fix(update):
         else:
             i += 1
     return update
-
 
 with open("input.txt") as f:
     for line in f:
