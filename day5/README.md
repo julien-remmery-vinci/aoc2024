@@ -1,0 +1,3 @@
+- [Array functions](https://www.w3schools.com/python/python_arrays.asp)
+- [math: Floor, ceil](https://www.geeksforgeeks.org/floor-ceil-function-python/)
+- [Return multiple values from function](https://www.geeksforgeeks.org/g-fact-41-multiple-return-values-in-python/)
